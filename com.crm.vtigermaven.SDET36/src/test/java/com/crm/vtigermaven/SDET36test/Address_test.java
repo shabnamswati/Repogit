@@ -19,5 +19,10 @@ public void home()
 {
 	System.out.println("i reached home safly");
 }
+@Test 
+public void home1()
+{
+	System.out.println("BYE");
+}
 
 }

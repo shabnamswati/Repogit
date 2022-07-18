@@ -14,10 +14,10 @@ public void address()
 {
 	System.out.println("bye");
 }
-@Test
+@Test 
 public void home()
 {
-	System.out.println("i reached home");
+	System.out.println("i reached home safly");
 }
 
 }
